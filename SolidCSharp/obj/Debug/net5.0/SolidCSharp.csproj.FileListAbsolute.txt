@@ -1,0 +1,16 @@
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.exe
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.deps.json
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.runtimeconfig.json
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.runtimeconfig.dev.json
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.dll
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\bin\Debug\net5.0\SolidCSharp.pdb
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.csproj.AssemblyReference.cache
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.AssemblyInfoInputs.cache
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.AssemblyInfo.cs
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.csproj.CoreCompileInputs.cache
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.dll
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\refint\SolidCSharp.dll
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.pdb
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\SolidCSharp.genruntimeconfig.cache
+C:\Users\davy.carvalho\source\repos\SOLID-CSHARP\SOLID\SolidCSharp\obj\Debug\net5.0\ref\SolidCSharp.dll
